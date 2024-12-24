@@ -1,3 +1,3 @@
 # siddharth-demo
 this is first repository
-author - siddharth jaiswal
+author - siddharth (jaiswal)
